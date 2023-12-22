@@ -6,6 +6,10 @@
 #         self.right = right
 
 '''
+By Joseph Haenel
+
+12/21/2023
+
 Time Complexity: O(N)
 Space Complexity: O(log(N)) In average case when tree is balanced.
     Worst Case: O(N)

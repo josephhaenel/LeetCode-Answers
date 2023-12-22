@@ -1,4 +1,8 @@
 '''
+By Joseph Haenel
+
+12/21/2023
+
 Time Complexity: O(N)
 Space Complexity: O(N)
 '''
